@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Urun Snapshot Ozelligi 1`] = `
+<div id="anasayfa">
+  <div class="test">%100 Orijinal • Ücretsiz Kargo • Vade Farksız 9 Taksit </div>
+  <v-container-stub tag="div" fluid="true" class="birincisatir">
+    <v-row-stub tag="div">
+      <v-col-stub tag="div">
+        <nuxt-link to="/">
+          <v-img-stub options="[object Object]" position="center center" src="https://cdn.saatvesaat.com.tr/skin/frontend/base/default/images/new-logo.png" transition="fade-transition" class="saat"></v-img-stub>
+        </nuxt-link>
+      </v-col-stub>
+      <v-col-stub tag="div" class="buton1">BAYAN SAAT</v-col-stub>
+      <v-col-stub tag="div" class="buton1">ERKEK SAAT</v-col-stub>
+      <v-col-stub tag="div" class="buton1">ÇOCUK SAAT</v-col-stub>
+      <v-col-stub tag="div" class="buton10">
+        <v-row-stub tag="div" justify="center">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="itemlistelemecolumn">
+              <div class="red3">
+                88 Rue Du Rhone
+              </div>
+              <nuxt-link to="/MarkaClick" style="text-decoration: none;">
+                <div class="red3">Armani Exchange </div>
+              </nuxt-link>
+              <div class="red3">Bomberg </div>
+              <div class="red3">Boss Watches </div>
+              <div class="red3">DKNY </div>
+              <div>Edox </div>
+              <div>Empori Armani </div>
+              <div>Escape </div>
+              <div>Esprit </div>
+              <div>FENDI </div>
+              <div>Fossil</div>
+              <div>Gc </div>
+              <div>Glam Rock </div>
+              <div>Guess </div>
+              <div>Lacoste </div>
+              <div>Lorus </div>
+              <div>Oris </div>
+              <div>Parigi </div>
+              <div>Seiko </div>
+              <div>Skagen </div>
+              <div>Skechers </div>
+              <div>Tag HEUER </div>
+              <div>Thom Olson </div>
+              <div>Young Sterna </div>
+              <div>Xonix </div>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div" class="buton2">TAKI &amp; AKSESUAR</v-col-stub>
+      <v-col-stub tag="div" class="buton4">FIRSAT</v-col-stub>
+      <v-col-stub tag="div" class="buton3">ONLİNE ÖZEL</v-col-stub>
+      <v-col-stub tag="div" class="aramaa">
+        <div><input type="search" placeholder="Kelime / Kod" autocomplete="off" class="arama2"> <input type="image" src="https://www.flaticon.com/svg/static/icons/svg/622/622669.svg" class="arares"></div>
+      </v-col-stub>
+      <v-col-stub tag="div" class="buton7">
+        <v-row-stub tag="div" justify="center" class="test2">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div">
+              <div class="red9">Favori Listem</div>
+              <div class="red9">Sepetim</div>
+              <div class="red9">Alışverişi Tamamla</div>
+              <div class="red9">
+                <nuxt-link to="/Giris" style="text-decoration: none;">Giris</nuxt-link>
+              </div>
+              <div class="red9">Üye Ol</div>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div" class="buton7">
+        <v-row-stub tag="div" justify="center" class="test2">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div">
+              <div>Sepet</div>
+              <div>Sepetiniz Boş </div>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;

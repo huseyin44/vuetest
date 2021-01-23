@@ -1,0 +1,126 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Urun Snapshot Ozelligi 1`] = `
+<v-app-stub id="app">
+  <div>
+    <v-row-stub tag="div">
+      <v-col-stub tag="div" class="aragenis"></v-col-stub>
+      <v-col-stub tag="div" class="aragenis"></v-col-stub>
+      <v-col-stub tag="div" class="aragenis"></v-col-stub>
+      <v-col-stub tag="div" class="sutunbir">
+        <v-row-stub tag="div" class="imagebir"><img src="https://cdn.saatvesaat.com.tr/media/catalog/product/a/x/ax2802_1.jpg" style="max-height: 108px; max-width: 108px;"></v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div" class="imagebir1"><img src="https://cdn.saatvesaat.com.tr/media/catalog/product/a/x/ax2802_2.jpg" style="max-height: 108px; max-width: 108px;"></v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div" class="aragenis"></v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div" class="imageiki"><img src="https://cdn.saatvesaat.com.tr/media/catalog/product/a/x/ax2802_1.jpg" class="imageuc"></v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-col-stub tag="div">
+            <nuxt-link to="/" style="text-decoration: underline; white-space: nowrap; width: 3%;">
+              Anasayfa
+            </nuxt-link>
+          </v-col-stub>
+          <v-col-stub tag="div">&gt;</v-col-stub>
+          <v-col-stub tag="div">
+            <nuxt-link to="/MarkaClick" style="text-decoration: underline; white-space: nowrap; width: 3%;">
+              Saat
+            </nuxt-link>
+          </v-col-stub>
+          <v-col-stub tag="div">&gt;</v-col-stub>
+          <v-col-stub tag="div">
+            <nuxt-link to="/MarkaClick" style="text-decoration: underline; white-space: nowrap; width: 3%;">
+              Erkek Saat Modelleri
+            </nuxt-link>
+          </v-col-stub>
+          <v-col-stub tag="div">&gt;</v-col-stub>
+          <v-col-stub tag="div">
+            <div style="color: gray; white-space: nowrap; width: 3%;">AX2802 Erkek Kol Saati</div>
+          </v-col-stub>
+        </v-row-stub>
+        <v-row-stub tag="div" class="satir11">
+          <v-col-stub tag="div">
+            <v-row-stub tag="div"><img src="https://cdn.saatvesaat.com.tr/media/amshopby/big_1735e392dea76f18.png" class="markaresim"></v-row-stub>
+            <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+            <v-row-stub tag="div">
+              <nuxt-link to="/MarkaClick">
+                Tüm Armani Exchange Ürünleri
+              </nuxt-link>
+            </v-row-stub>
+          </v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div">
+            <div style="color: black; font-size: 110%;">Türkiye Yetkili Satıcısı</div>
+          </v-col-stub>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <div style="color: black; font-size: 130%;">Armani Exchange</div>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <div style="color: gray; font-size: 150%;">AX2802 Erkek Kol Saati</div>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <div style="color: gray; font-size: 100%;">Çelik / Quartz Teknoloji / 42 mm Kasa Çapı</div>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <div style="color: gray; font-size: 120%; text-decoration: line-through;">337000 TL</div>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <div style="color: red; font-size: 170%;">151600 TL</div>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <v-col-stub tag="div">
+            <div>Adet</div>
+          </v-col-stub>
+          <v-col-stub tag="div"><select style="width: 35%;">
+              <option selected="selected" value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+              <option value="6">6</option>
+              <option value="7">7</option>
+              <option value="8">8</option>
+              <option value="9">9</option>
+              <option value="10">10</option>
+            </select></v-col-stub>
+          <v-col-stub tag="div">
+            <nuxt-link to="/Alisverisdevam"><button class="satinal" style="text-decoration: none;">
+                SATIN AL
+              </button></nuxt-link>
+          </v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+          <v-col-stub tag="div" class="aragenis2"></v-col-stub>
+        </v-row-stub>
+        <v-row-stub tag="div">
+          <div style="font-family: Roboto, Arial, sans-serif;">Web'e özel Ürünlerin iade ve değişim işlemleri sadece online kanaldan sağlanmakta olup,
+            mağazalarımızda değişim gerçekleştirilmemektedir.</div>
+        </v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div" class="arayuksek"></v-row-stub>
+        <v-row-stub tag="div">
+          <div style="color: lightgray; font-family: Roboto, Arial, sans-serif;">Sorularınız ve destek için online chat veya 0212 367 44 74 </div>
+        </v-row-stub>
+      </v-col-stub>
+    </v-row-stub>
+  </div>
+</v-app-stub>
+`;

@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filtre Snapshot Ozelligi 1`] = `
+<div>
+  <v-container-stub tag="div" fluid="true" class="satirbir">
+    <v-row-stub tag="div" contain="">
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <div class=" red14">Saat</div>
+              <div class=" red14">Fırsat</div>
+              <div class=" red14">Online-Mağazaya-Özel</div>
+              <div class=" red14">İndirimli-Saatler </div>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <v-radio-stub ripple="true" label="Erkek" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Kadın" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <div class=" red14">1,000,000TL-1,498,000TL</div>
+              <div class=" red14">1,500,000TL-1,998,000TL</div>
+              <div class=" red14">2,000,000TL-2,498,000TL</div>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <v-radio-stub ripple="true" label="Metalik Gri" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Rose Gold" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Siyah" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Kahverengi" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Beyaz" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Pempe" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <v-radio-stub ripple="true" label="Çelik" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Deri" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <v-radio-stub ripple="true" label="Spor Saatler" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Klasik Saatler" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <v-radio-stub ripple="true" label="Quartz" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Otomatik" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div" class="buton1">Urun</v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+      <v-col-stub tag="div">
+        <v-row-stub tag="div">
+          <v-menu-stub opendelay="0" closedelay="0" contentclass="" openonhover="true" maxwidth="auto" nudgebottom="0" nudgeleft="0" nudgeright="0" nudgetop="0" nudgewidth="0" openonclick="true" closeonclick="true" closeoncontentclick="true" maxheight="auto" offsety="true" origin="top left" transition="v-menu-transition">
+            <v-list-stub tag="div" class="kategorilist">
+              <v-radio-stub ripple="true" label="Seçtiklerimiz" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Fiyat Artan" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Fiyat Azalan" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="Yeni Gelenler" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+              <v-radio-stub ripple="true" label="İndirimler" officon="$radioOff" onicon="$radioOn" class=" red14"></v-radio-stub>
+            </v-list-stub>
+          </v-menu-stub>
+        </v-row-stub>
+      </v-col-stub>
+      <v-col-stub tag="div" class="buton1"></v-col-stub>
+    </v-row-stub>
+  </v-container-stub>
+</div>
+`;

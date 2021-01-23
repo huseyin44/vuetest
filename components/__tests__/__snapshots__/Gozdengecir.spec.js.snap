@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Urun Snapshot Ozelligi 1`] = `
+<div>
+  <v-app-stub id="app" container="">
+    <v-col-stub tag="div" class="border">
+      <v-row-stub tag="div">
+        <div style="padding: 0px 0px 0px 7px; font-size: 20px;">Siparis Gözden Geçir</div>
+      </v-row-stub>
+      <v-row-stub tag="div"></v-row-stub>
+      <v-row-stub tag="div" class="dorduncu">
+        <div style="color: black; padding: 0px 0px 0px 7px;">Sepet</div>
+      </v-row-stub>
+      <v-row-stub tag="div"></v-row-stub>
+      <v-row-stub tag="div" class="ikincisatir">
+        <v-col-stub tag="div"><img src="https://cdn.saatvesaat.com.tr/media/catalog/product/a/x/ax2802_1.jpg" style="max-height: 75px; max-width: 75px;"></v-col-stub>
+        <v-col-stub tag="div">
+          <div>Adet 1</div>
+        </v-col-stub>
+        <v-col-stub tag="div">
+          <div style="padding: 28px 0px 0px 0px; color: gray;">337000 TL</div>
+        </v-col-stub>
+      </v-row-stub>
+      <v-row-stub tag="div"></v-row-stub>
+      <v-row-stub tag="div" class="ucuncusatir">
+        <v-col-stub tag="div">
+          <div style="padding: 0px 0px 0px 7px; color: rgb(119, 119, 119);">Ara Toplam</div>
+        </v-col-stub>
+        <v-col-stub tag="div">
+          <v-row-stub tag="div">
+            <div style="padding: 0px 0px 0px 70px; color: rgb(119, 119, 119);">337000 TL</div>
+          </v-row-stub>
+          <v-row-stub tag="div">
+            <v-col-stub tag="div">İndirim</v-col-stub>
+            <v-col-stub tag="div">-185400 TL</v-col-stub>
+          </v-row-stub>
+        </v-col-stub>
+      </v-row-stub>
+      <v-row-stub tag="div">
+        <v-col-stub tag="div">
+          <div style="padding: 0px 0px 0px 7px; color: rgb(156, 12, 12) !important; white-space: nowrap;">Genel Toplam</div>
+        </v-col-stub>
+        <v-col-stub tag="div">
+          <div style="padding: 0px 0px 0px 60px;">151600 TL</div>
+        </v-col-stub>
+      </v-row-stub>
+    </v-col-stub>
+  </v-app-stub>
+</div>
+`;

@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Urun Snapshot Ozelligi 1`] = `
+<div>
+  <v-app-stub id="sepet" container="">
+    <v-container-stub tag="div">
+      <v-row-stub tag="div">
+        <v-col-stub tag="div">
+          <v-row-stub tag="div">
+            <v-col-stub tag="div">
+              <div>ÜRÜN</div>
+            </v-col-stub>
+            <v-col-stub tag="div" width="50%"></v-col-stub>
+            <v-col-stub tag="div">
+              <div>ADET</div>
+            </v-col-stub>
+            <v-col-stub tag="div">
+              <div>FİYAT</div>
+            </v-col-stub>
+            <v-col-stub tag="div">
+              <div>SİL</div>
+            </v-col-stub>
+          </v-row-stub>
+          <v-row-stub tag="div" class="satir2">
+            <v-col-stub tag="div"><img src="https://cdn.saatvesaat.com.tr/media/catalog/product/a/x/ax2802_1.jpg" style="max-height: 160px; min-width: 160px;"></v-col-stub>
+            <v-col-stub tag="div">
+              <v-row-stub tag="div">
+                <nuxt-link to="/Sepet"><button class="erkeksaati">AX2802 Erkek Kol Saati</button></nuxt-link>
+              </v-row-stub>
+              <v-row-stub tag="div">
+                <v-col-stub tag="div">
+                  <div>Ürün Kodu :</div>
+                </v-col-stub>
+                <v-col-stub tag="div">
+                  <div>AX2802</div>
+                </v-col-stub>
+              </v-row-stub>
+            </v-col-stub>
+            <v-col-stub tag="div"></v-col-stub>
+            <v-col-stub tag="div">
+              <v-row-stub tag="div"><input type="text" value="1" class="in" style="max-width: 20%; max-height: 20%;"></v-row-stub>
+              <v-row-stub tag="div"></v-row-stub>
+              <v-row-stub tag="div">
+                <nuxt-link to="/Sepet"><button class="duzenle" style="color: rgb(189, 24, 24);">Düzenle</button></nuxt-link>
+              </v-row-stub>
+            </v-col-stub>
+            <v-col-stub tag="div" align:left="">
+              <div style="white-space: nowrap; color: black;">151600 TL</div>
+            </v-col-stub>
+            <v-col-stub tag="div">
+              <nuxt-link to="/Sepetinizbos"><button class="silbuton">X</button></nuxt-link>
+            </v-col-stub>
+          </v-row-stub>
+          <v-row-stub tag="div" class="satir3">
+            <v-col-stub tag="div">
+              <v-row-stub tag="div">
+                <v-col-stub tag="div">
+                  <nuxt-link to="/"><button class="alisveris">Alılverişe Devam</button></nuxt-link>
+                </v-col-stub>
+                <v-col-stub tag="div">
+                  <div style="text-align: start; font-size: 55%; padding: 5px;">-Veya-</div>
+                </v-col-stub>
+                <v-col-stub tag="div">
+                  <nuxt-link to="/Sepet"><button class="sepetiguncelle">Sepeti Güncelle</button></nuxt-link>
+                </v-col-stub>
+              </v-row-stub>
+            </v-col-stub>
+            <v-col-stub tag="div">
+              <v-row-stub tag="div" class="spt">
+                <v-col-stub tag="div"></v-col-stub>
+                <v-col-stub tag="div"><button class="sepetibosalt">Sepeti Boşalt</button></v-col-stub>
+              </v-row-stub>
+            </v-col-stub>
+          </v-row-stub>
+        </v-col-stub>
+        <v-col-stub tag="div"></v-col-stub>
+        <v-col-stub tag="div">
+          <v-row-stub tag="div"></v-row-stub>
+          <div class="satirsutun">
+            <v-row-stub tag="div">
+              <v-col-stub tag="div">
+                <div style="padding: 0px 0px 0px 10px; color: black;">Ara Toplam</div>
+              </v-col-stub>
+              <v-col-stub tag="div">
+                <v-row-stub tag="div">
+                  <div style="padding: 0px 0px 0px 80px; color: black;">337000 TL</div>
+                </v-row-stub>
+                <v-row-stub tag="div">
+                  <v-col-stub tag="div">İndirim</v-col-stub>
+                  <v-col-stub tag="div">-185400 TL</v-col-stub>
+                </v-row-stub>
+              </v-col-stub>
+            </v-row-stub>
+            <v-row-stub tag="div"></v-row-stub>
+            <v-row-stub tag="div">
+              <v-col-stub tag="div">
+                <div style="padding: 0px 0px 0px 10px; color: black;">Genel Toplam</div>
+              </v-col-stub>
+              <v-col-stub tag="div">
+                <div style="padding: 0px 0px 0px 70px; color: black;">151600 TL</div>
+              </v-col-stub>
+            </v-row-stub>
+            <v-row-stub tag="div">
+              <v-col-stub tag="div"></v-col-stub>
+              <v-col-stub tag="div">
+                <nuxt-link to="/Alisveristamamla"><button class="altamam">ALIŞVERİŞİ TAMAMLA</button></nuxt-link>
+              </v-col-stub>
+            </v-row-stub>
+          </div>
+        </v-col-stub>
+      </v-row-stub>
+    </v-container-stub>
+  </v-app-stub>
+</div>
+`;
